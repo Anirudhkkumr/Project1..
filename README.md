@@ -1,1 +1,4 @@
-# Project1..
+- Compared to female clients, male customers bought more bikes.
+- Customers with shorter commutes own more bikes.
+- The majority of purchases are made by middle-aged individuals (31 to 50).
+- North America has higher bike sales than the Pacific and Europe.
